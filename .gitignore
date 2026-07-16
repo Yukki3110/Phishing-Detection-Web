@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#ML & DL
+venv_ml/
+training/dataset/
+training/training/
+
+#Temp files
+*.tmp
+*.cache
+
+#VSCode
+.vscode/

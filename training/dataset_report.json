@@ -1,0 +1,23 @@
+{
+    "phishing": {
+        "total_images": 1572,
+        "blank_images": 4,
+        "error_pages": 49,
+        "duplicates": 206,
+        "resolutions": {
+            "(1348, 620)": 453,
+            "(1902, 932)": 990,
+            "(1262, 572)": 129
+        }
+    },
+    "genuine": {
+        "total_images": 1316,
+        "blank_images": 0,
+        "error_pages": 8,
+        "duplicates": 9,
+        "resolutions": {
+            "(1902, 932)": 1281,
+            "(1262, 572)": 35
+        }
+    }
+}
